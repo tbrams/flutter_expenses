@@ -20,8 +20,20 @@ class MyHomePage extends StatelessWidget {
       appBar: AppBar(
         title: Text('Flutter Expenses'),
       ),
-      body: Center(
-        child: Text('Widget prlayground!'),
+      body: Column(
+        children: <Widget>[
+          Card(
+            child: Container(width:double.infinity,
+            color:Colors.orange,
+            height: 100,
+              child: Text('CHART'),
+            ),
+            elevation: 5,
+          ),
+          Card(
+            child: Text('List of Transactions...'),
+          )
+        ],
       ),
     );
   }
