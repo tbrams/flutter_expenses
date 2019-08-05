@@ -1,16 +1,16 @@
 # expenses
 
-A new Flutter project.
+Extremely simple expense tracking app intended to try out various Flutter features while getting used to the new platform.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<p align="center">
+<img width="400" alt="Screenshot 2019-08-05 at 13 14 04" src="https://user-images.githubusercontent.com/3058746/62460671-eb21c080-b782-11e9-849c-b24e2ec06ca0.png">
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+<p align="center">
+<img width="400" alt="Screenshot 2019-08-05 at 13 15 57" src="https://user-images.githubusercontent.com/3058746/62460762-2f14c580-b783-11e9-9099-f07211adbcb8.png">
+</p>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Screenshot 2019-08-05 at 13 14 04](https://user-images.githubusercontent.com/3058746/62460671-eb21c080-b782-11e9-849c-b24e2ec06ca0.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2019-08-05 at 13 15 57](https://user-images.githubusercontent.com/3058746/62460762-2f14c580-b783-11e9-9099-f07211adbcb8.png
